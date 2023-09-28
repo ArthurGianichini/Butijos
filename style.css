@@ -1,0 +1,175 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: linear-gradient(rgb(0, 0, 0));
+  background-color: rgb(111, 111, 199); 
+}
+
+.cabeçario{
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: cent;
+  border:solid 3px;
+  border-radius: 20px;
+  background-image: linear-gradient(rgb(11, 161, 255),rgb(82, 82, 231))
+}
+
+.NomeButijos{
+  margin-left: 365px;
+  font-family: Cambria
+}
+
+.seta{
+  width: 60px;
+}
+
+.carrinho{
+  width: 70px;
+  margin-right: 1px;
+  }
+
+.perfil{
+  align-items: center;
+  border: 20px;
+}
+
+#Busca1{
+  border:solid 3px;
+  border-radius: 20px;
+  width:400px;
+  margin-top: 10px;
+  margin-left: 50px;
+  background-image: linear-gradient(rgb(185, 187, 189),rgb(247, 223, 223))
+  }
+
+#Busca{
+  float:left;
+  background-color: transparent;
+  padding-left:10px;
+  font-style:italic;
+  font-size:15px;
+  border:none;
+  height:17px;
+  width:388px;
+}  
+
+.butijao-diabo{
+  border-radius: 20px;
+  border:solid 4px;
+  height: 22vw;
+  width: 55vh;
+  background-image: linear-gradient(rgb(177, 20, 177),rgb(82, 82, 231))
+}
+
+.butijao-zap{
+  border-radius: 20px;
+  border:solid 4px;
+  height: 22vw;
+  width: 55vh;
+  background-image: linear-gradient(rgb(20, 177, 83),rgb(82, 82, 231))
+}
+
+.butijao-facebook{
+  border-radius: 20px;
+  border:solid 4px;
+  height: 22vw;
+  width: 55vh;
+  position: relative;
+  background-image: linear-gradient(rgb(133, 204, 248),rgb(82, 82, 231))
+}
+
+.butijao-maneiro{
+  border-radius: 20px;
+  border:solid 4px;
+  height: 22vw;
+  width: 55vh;
+  position: relative;
+  background-image: linear-gradient(rgb(0, 0, 0),rgb(82, 82, 231))
+}
+
+.butijao-devó{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(223, 149, 212),rgb(82, 82, 231))
+}
+
+.butijao-dourado{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(245, 206, 7),rgb(82, 82, 231))
+}
+
+.butijao-cartunizando{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(97, 146, 236),rgb(82, 82, 231))
+}
+
+.butijao-genericobranco{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(209, 203, 175),rgb(82, 82, 231))
+}
+
+.butijao-genericoazul{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(10, 210, 255),rgb(82, 82, 231))
+}
+
+.butijao-devóvermelho{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(184, 3, 39),rgb(82, 82, 231))
+}
+
+.butijao-corona{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(135, 115, 65),rgb(82, 82, 231))
+}
+
+.butijao-roblox{
+  height: 22vw;
+  width: 55vh;
+  border-radius: 20px;
+  border:solid 4px;
+  background-image: linear-gradient(rgb(54, 52, 48),rgb(82, 82, 231)) 
+}
+
+.container-sessao{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+ font-family: Cambria
+}
+
+.ContatosButijos{
+  border:solid 2px;
+  background-color: rgb(70, 90, 180);
+  border-radius: 13px;
+  font-family: Cambria;
+  margin-top: 20px;
+  text-align: center;
+} 
